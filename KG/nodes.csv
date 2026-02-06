@@ -1,0 +1,184 @@
+id,label,name,count
+DISORDER_Stress,Disorder,Stress,0
+DISORDER_Anxiety,Disorder,Anxiety,0
+DISORDER_Depression,Disorder,Depression,0
+HP:0033845,Symptom,sense of doom,1
+MANUAL_LEX:ANGER,Symptom,mad,35
+MANUAL_LEX:UNHAPPY,Symptom,unhappy,13
+HP:0033676,Symptom,ptsd,182
+HP:0000739,Symptom,anxiety,404
+HP:0025269,Symptom,panic attack,41
+HP:0031467,Symptom,feeling bad,2
+HP:0002013,Symptom,vomiting,7
+HP:0012735,Symptom,coughing,8
+HP:0031473,Symptom,anger,75
+HP:0002315,Symptom,headaches,17
+MANUAL_LEX:SADNESS,Symptom,sad,38
+MANUAL_LEX:AGITATION,Symptom,screaming,40
+HP:0000722,Symptom,ocd,20
+HP:0002829,Symptom,joint pain,1
+HP:0002527,Symptom,falls,42
+HP:0000716,Symptom,depression,112
+HP:0100754,Symptom,manic,5
+HP:0012531,Symptom,pain,41
+HP:0025095,Symptom,sneeze,2
+HP:0009926,Symptom,watery eyes,5
+HP:0012393,Symptom,allergy,3
+HP:0000737,Symptom,on edge,13
+HP:0007018,Symptom,adhd,7
+HP:0001649,Symptom,increased heart rate,2
+HP:0031273,Symptom,shock,9
+MANUAL_LEX:CRYING,Symptom,crying,106
+HP:0012378,Symptom,tired,85
+HP:0032940,Symptom,dissociation,7
+HP:6000029,Symptom,social anxiety,12
+HP:0030955,Symptom,alcoholism,7
+HP:0001658,Symptom,heart attack,7
+HP:5200271,Symptom,hopeless,14
+MANUAL_LEX:STRESS,Symptom,overwhelmed,14
+HP:5200217,Symptom,depersonalization,3
+HP:0041248,Symptom,broken wrist,1
+HP:0100785,Symptom,insomnia,9
+HP:0002329,Symptom,sleepy,3
+HP:0001259,Symptom,coma,3
+HP:5200205,Symptom,illusion,1
+HP:0010865,Symptom,odd,10
+HP:0003510,Symptom,dwarfism,1
+HP:0007302,Symptom,bipolar disorder,6
+HP:0031589,Symptom,suicidal ideation,3
+HP:0011999,Symptom,paranoia,9
+MANUAL_LEX:SUICIDAL_IDEATION,Symptom,killing myself,18
+HP:0004324,Symptom,weight gain,2
+MANUAL_LEX:NEGATIVE_THOUGHTS,Symptom,negative,32
+HP:0002664,Symptom,cancer,15
+HP:0100526,Symptom,lung cancer,2
+HP:0004396,Symptom,no appetite,1
+HP:0031844,Symptom,euphoria,1
+HP:0012452,Symptom,restless leg,1
+HP:0001369,Symptom,arthritis,1
+HP:0012432,Symptom,chronic fatigue,2
+HP:0025273,Symptom,achilles tendonitis,1
+HP:0002758,Symptom,osteoarthritis,1
+HP:0000975,Symptom,sweating,5
+HP:0025143,Symptom,chills,6
+HP:0001945,Symptom,fever,3
+HP:0002321,Symptom,dizziness,4
+HP:0031246,Symptom,dry cough,1
+HP:0000756,Symptom,agoraphobia,6
+HP:5200273,Symptom,emotional pain,2
+HP:6000011,Symptom,guilt,13
+HP:5200339,Symptom,cutting,6
+HP:5200134,Symptom,bouncing,7
+HP:0025502,Symptom,overweight,2
+HP:0002099,Symptom,asthma,3
+HP:0100723,Symptom,gist,1
+HP:0100716,Symptom,self-harm,2
+MANUAL_LEX:NUMBNESS,Symptom,numb,11
+HP:0033630,Symptom,brain fog,1
+HP:5200231,Symptom,hypervigilance,3
+HP:0002018,Symptom,nausea,6
+HP:0000656,Symptom,ectropion,1
+HP:0030212,Symptom,collecting,2
+HP:0001824,Symptom,weight loss,1
+HP:0100753,Symptom,schizophrenia,5
+HP:0000741,Symptom,apathy,1
+HP:5200049,Symptom,arranging,2
+HP:0002608,Symptom,celiac disease,1
+HP:0000738,Symptom,hallucinations,4
+HP:0008763,Symptom,no social interaction,1
+HP:0012076,Symptom,bpd,9
+HP:0033748,Symptom,numbness,2
+HP:0000622,Symptom,blurred vision,1
+HP:0041092,Symptom,overly sensitive,3
+HP:0100710,Symptom,impulsive,3
+HP:0010536,Symptom,central sleep apnea,1
+HP:5200232,Symptom,phobia,5
+HP:0002014,Symptom,diarrhea,1
+HP:0100749,Symptom,chest pain,2
+HP:0033844,Symptom,racing thoughts,1
+HP:0001962,Symptom,palpitations,3
+HP:0012532,Symptom,chronic pain,6
+HP:0010546,Symptom,twitching,1
+HP:0001250,Symptom,seizures,13
+HP:0002181,Symptom,brain swelling,1
+HP:0410281,Symptom,indigestion,1
+HP:0500001,Symptom,body odor,1
+HP:0001631,Symptom,asd,3
+HP:0000704,Symptom,periodontitis,1
+HP:0100699,Symptom,scarring,3
+HP:0000717,Symptom,autism,4
+HP:0007185,Symptom,fainting,3
+HP:0033850,Symptom,coldness,1
+HP:0025267,Symptom,snore,2
+HP:0000726,Symptom,dementia,3
+HP:0031987,Symptom,concentration problems,2
+HP:0030166,Symptom,night sweats,1
+HP:0001217,Symptom,clubbing,1
+HP:0033834,Symptom,malaise,1
+HP:0000010,Symptom,urinary tract infection,1
+HP:0001394,Symptom,liver cirrhosis,1
+HP:0001061,Symptom,acne,1
+HP:0030153,Symptom,bile duct cancer,1
+HP:0100242,Symptom,sarcoma,2
+HP:0009830,Symptom,neuropathy,1
+HP:0033513,Symptom,cocaine addiction,2
+HP:0031354,Symptom,trouble falling asleep,1
+HP:0031469,Symptom,low self-esteem,1
+HP:0012075,Symptom,personality disorder,2
+HP:0002104,Symptom,apnea,1
+HP:0001289,Symptom,confusion,4
+HP:0002039,Symptom,anorexia,1
+HP:0000012,Symptom,overactive bladder,1
+HP:0100739,Symptom,bulimia,1
+HP:0002098,Symptom,respiratory distress,1
+HP:0003401,Symptom,tingling,1
+HP:0025144,Symptom,shivering,2
+HP:0100658,Symptom,cellulitis,1
+HP:0033705,Symptom,tearfulness,1
+HP:0000853,Symptom,thyroid goiter,1
+HP:0030692,Symptom,brain tumor,3
+HP:0020083,Symptom,boil,1
+HP:0025771,Symptom,rumination,1
+HP:6000789,Symptom,corn,1
+HP:0012125,Symptom,prostate cancer,1
+HP:0000745,Symptom,lack of motivation,1
+HP:0031955,Symptom,limp,1
+HP:0033517,Symptom,heroin addiction,1
+HP:0003418,Symptom,back pain,2
+HP:0100614,Symptom,muscle inflammation,1
+HP:0002094,Symptom,trouble breathing,1
+HP:0033726,Symptom,lupus nephritis,1
+HP:0002883,Symptom,hyperventilation,2
+HP:0040213,Symptom,shallow breathing,2
+HP:0005263,Symptom,gastritis,2
+HP:0000787,Symptom,kidney stones,1
+HP:0000822,Symptom,high blood pressure,1
+HP:0030448,Symptom,soft tissue sarcoma,1
+HP:0001533,Symptom,thin build,1
+HP:5200233,Symptom,anticipatory anxiety,3
+HP:5200218,Symptom,derealization,3
+HP:0001297,Symptom,stroke,2
+HP:0031217,Symptom,hot flash,1
+HP:0012005,Symptom,deja vu,2
+HP:0001742,Symptom,stuffy nose,1
+HP:0001263,Symptom,cognitive delay,1
+HP:0000360,Symptom,tinnitus,1
+HP:0000718,Symptom,aggression,3
+HP:0033838,Symptom,dysphoria,1
+HP:0025113,Symptom,misophonia,1
+HP:0000713,Symptom,agitation,1
+HP:0033454,Symptom,tube feeding,1
+HP:0002571,Symptom,achalasia,1
+HP:0001699,Symptom,sudden death,1
+HP:0002027,Symptom,upset stomach,1
+HP:0000746,Symptom,delusions,1
+HP:0001287,Symptom,meningitis,1
+HP:0000729,Symptom,autism spectrum disorder,1
+HP:0001249,Symptom,intellectual disability,1
+HP:0004279,Symptom,short hand,1
+HP:0030834,Symptom,shoulder pain,1
+HP:0025406,Symptom,weakness,2
+HP:0003470,Symptom,paralysis,1
+HP:0032551,Symptom,pile,1
+HP:0012189,Symptom,hodgkin's lymphoma,1
+HP:0000711,Symptom,restlessness,1
